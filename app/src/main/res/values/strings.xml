@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheMusicPlayer</string>
+    <string name="start_song">PLAY</string>
+    <string name="end_song">PAUSE</string>
+    <string name="header">THE MUSIC PLAYER</string>
+    <string name="stop">STOP</string>
+    <string name="back">REWIND</string>
+    <string name="forward">FORWARD</string>
+</resources>
